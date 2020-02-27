@@ -1,0 +1,19 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url("webfonts/Futura_book/stylesheet.css");
+.descripción {
+    font-family: "Futura book";
+    font-size: 70px;
+    color: #000000;
+    background-image: url(/images/index2_36.png);
+    text-align: left;
+}
+.titulo {
+    font-family: "Futura Heavy font";
+    font-size: 180px;
+    color: #0D3E0D;
+    background-image: url(/images/index2_33.png);
+    text-align: center;
+    background-color: #F9C6C2;
+}
